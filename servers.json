@@ -62,7 +62,7 @@
     },
     {
       "name": "Own Server",
-      "address": "https://us.pscloud.top:6969"
+      "address": "http://us.pscloud.top:6969"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
